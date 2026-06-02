@@ -145,8 +145,10 @@ blockquote {
   .navbar-brand.social {
     padding-bottom: 0;
     padding-top: 0;
-    font-size: 1.7rem;
+    font-size: 1.35rem;
+    line-height: 1;
     a {
+      margin-right: 0.2rem;
       i::before {
         color: var(--global-text-color);
         -webkit-transition: all 0.2s ease-in-out;
@@ -227,6 +229,29 @@ blockquote {
   }
   .contact-note {
     font-size: 0.8rem;
+  }
+}
+
+.profile-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 1rem 0 1.5rem;
+
+  a {
+    border: 1px solid var(--global-theme-color);
+    border-radius: 3px;
+    color: var(--global-theme-color);
+    font-size: 0.85rem;
+    line-height: 1.2;
+    padding: 0.25rem 0.65rem;
+    text-decoration: none;
+
+    &:hover {
+      background-color: var(--global-theme-color);
+      color: var(--global-bg-color);
+      text-decoration: none;
+    }
   }
 }
 
@@ -441,6 +466,7 @@ footer.sticky-bottom {
         }
         > em {
           border-bottom: 1px solid;
+          font-weight: 700;
           font-style: normal;
         }
       }

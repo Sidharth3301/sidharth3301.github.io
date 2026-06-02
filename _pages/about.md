@@ -13,12 +13,23 @@ profile:
     # <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
-Hello there! I am currently pursuing a Masters degree in Visual Computing at [Saarland University](https://saarland-informatics-campus.de/). I am broadly interested in applications of geometric learning in Computer Vision and Computer Graphics.
+Hello there! I am a machine learning researcher working across generative models, embodied AI, and visual computing. My Master's thesis work at the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/) in Saarbruecken focuses on diffusion-driven physics-based humanoid motion and stability.
 
-Previously, I completed my Bachelors in Electrical and Electronics Engineering at [BITS Pilani](bits-pilani.ac.in), and was fortunate to be able to finish my Bachelors thesis under the supervision of [Prof. Sundeep Chepuri](https://ece.iisc.ac.in/~spchepuri/) at the [Indian Institute of Science (IISc), Bengaluru](ece.iisc.ac.in) on the applications of Deep Learning (especially Graph Learning) for 5G and Beyond 5G Wireless Communications. Previously, I have interned at the [Centre for Frontier AI research (CFAR)](https://www.a-star.edu.sg/cfar), A*STAR Singapore under Ms. Mengmi Zhang on zero-shot visual search, and worked as a research assistant at the [BITS-IoT Lab](bitsiotlab.com) under [Prof. Vinay Chamola](https://www.bits-pilani.ac.in/pilani/vinaychamola/profile) on the applications of Graph Neural Networks for temporally modelling cellular resource allocation.
+Previously, I completed my Bachelor's in Electrical and Electronics Engineering at [BITS Pilani](https://www.bits-pilani.ac.in/) and my Bachelor's thesis at the [Indian Institute of Science](https://ece.iisc.ac.in/) under [Prof. Sundeep Chepuri](https://ece.iisc.ac.in/~spchepuri/), working on unsupervised neural precoding for integrated sensing and communication systems.
 
-Find my latest and updated [CV](assets/pdf/cv_sidharth_2023.pdf) here.
+<div class="profile-links">
+  <a href="assets/pdf/sidharth_cv_2026.pdf">CV</a>
+  <a href="mailto:sidharthnair3301@gmail.com">Email</a>
+  <a href="https://github.com/Sidharth3301">GitHub</a>
+  <a href="https://scholar.google.com/citations?user=LD9ZbzcAAAAJ&hl=en">Scholar</a>
+</div>
+
+## research interests
+
+- Generative models for embodied AI and motion synthesis
+- Visual computing, 3D scene understanding, and neural rendering
+- LLM-driven systems for structured reasoning and human-in-the-loop workflows
